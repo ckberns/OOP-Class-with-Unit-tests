@@ -1,0 +1,1 @@
+This is a basic program that will instantiate a student class using some basic information about the student. This program will then output the students full name, major, and current GPA. Furthermore, unit tests have been written to ensure the class methods function properly.
